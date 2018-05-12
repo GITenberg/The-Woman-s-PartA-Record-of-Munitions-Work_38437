@@ -1,0 +1,27 @@
+_repo: The-Woman-s-PartA-Record-of-Munitions-Work_38437
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38437-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Yates, L. K.
+    gutenberg_agent_id: '39469'
+    url: http://www.gutenberg.org/2009/agents/39469
+description: ''
+gutenberg_issued: '2011-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38437'
+  lccn: '18022934'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HD'
+- !lcsh 'Great Britain. Army -- Ordnance facilities'
+- !lcsh 'Weapons industry -- Employees'
+- !lcsh 'World War, 1914-1918 -- Women'
+title: 'The Woman''s Part: A Record of Munitions Work'
+url: http://www.gutenberg.org/ebooks/38437
